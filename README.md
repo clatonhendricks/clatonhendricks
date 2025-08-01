@@ -7,7 +7,6 @@ I'm a **Product Manager at Microsoft**, passionate about performance tooling, co
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/clatonh)
-- [Email](mailto:clatonhendricks@msn.com)
 - [Twitter (nope not calling it 'x')](https://x.com/clatonhendricks)
 - [Instagram](https://www.instagram.com/dust.and.smoke/)
 
